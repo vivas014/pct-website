@@ -87,6 +87,7 @@ lang: es
 
 format:
   html:
+    link-external-newwindow: true
     theme: 
       - cosmo
       - "temas/general.scss"
