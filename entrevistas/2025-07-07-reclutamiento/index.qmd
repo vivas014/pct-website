@@ -1,0 +1,18 @@
+---
+title: "Reclutamiento"
+description: "Buscamos personas investigadoras"
+lang: es
+author:
+  - name: Pablo Vivas
+    #url: https://vivas014.github.io/personal-website/
+    #affiliation: Master student in Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 07-07-2025
+categories: [PCT, Proyecto] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+image: qr-instagram.png
+draft: false 
+---
+
+**PCT** se encuentra en el proceso de contacto a personas investigadoras. Si tienes alguna duda del proyecto o quieres contactarnos para que te entrevistemos, contáctanos en nuestras redes sociales o envíanos un correo electrónico^[puracienciaticacr@gmail.com].

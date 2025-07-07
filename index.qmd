@@ -1,0 +1,13 @@
+---
+title: ""
+---
+
+<style>
+  body {
+    background-image: url('images/portada-05.svg');
+    background-size: 90%; /* Adjust percentage to control scaling */
+    background-repeat: no-repeat;
+    background-position: center; /* Keep it centered */
+  }
+</style>
+

@@ -1,0 +1,116 @@
+/*-- scss:defaults --*/
+
+// Import fonts (define mainfont in _quarto.yml)
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa:wght@300..700&family=Dosis:wght@200..800&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+// fonts
+$bebas: 'Bebas Neue', sans-serif;
+$nunito: 'Nunito', sans-serif; 
+$dosis: 'Dosis', sans-serif; 
+$comfortaa: 'Comfortaa', sans-serif;
+
+// Colors
+$teal: #008080;
+$coral: #FF7F50;
+$mustard: #FFDB58;
+$gray: #708090;
+$turquoise: #40E0D0;
+$white: #FDFEFE;
+
+// Base document colors
+$link-color: $teal;
+$link-hover-color: $teal;
+$link-active-color: $teal;
+$link-decoration: none;
+$link-hover-decoration: underline;
+$link-active-decoration: none;
+
+/*-- scss:rules --*/
+
+/* ELEMENT SELECTORS */
+
+$nav-link-color: $teal;
+$nav-link-hover-color: $teal;
+
+h1 {
+  font-family: $bebas; 
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: $teal;
+}
+
+h2 {
+  font-family: $nunito; 
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: $gray;
+}
+
+h3 {
+  font-family: $dosis; 
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: $turquoise;
+}
+
+h4 {
+  font-family: $dosis; 
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: $coral;
+}
+
+h5 {
+  font-family: $dosis; 
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: $mustard;
+}
+
+body {
+  font-family: $comfortaa;
+  line-height: 1.5;
+  font-size: 19.5px;
+  font-weight: 375;
+  color: $white;
+}
+
+/*-- scss:rules --*/
+
+.card {
+  background-color: #2d2d2d;
+  border-radius: 10px;
+  padding: 0.6rem;
+  //border-radius: 5.25em;
+}
+
+.card:hover {
+  background-color: $gray;
+}
+
+.card-body{
+  color: $white;
+}
+
+.quarto-grid-item .listing-categories .listing-category {
+  color: $mustard;
+}
+
+div.quarto-post a {
+  color: $white;
+}
+
+div.quarto-post .listing-categories .listing-category {
+  color: $mustard;
+}
+
+//div.quarto-post:hover {
+//  background-color: $gray;
+//}
+
+div.quarto-post .thumbnail img {
+  padding: 0.6rem;
+  width: 55%;
+  height: 55%;
+  margin-top: 0;
+}

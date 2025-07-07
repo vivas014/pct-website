@@ -1,0 +1,24 @@
+---
+title: "¿Como nació PCT?"
+description: "Nacimiento del proyecto"
+lang: es
+author:
+  - name: Emily Espinoza & Pablo Vivas
+    #url: https://vivas014.github.io/personal-website/
+    #affiliation: Master student in Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 05-06-2025
+categories: [PCT, Proyecto] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+image: pct-logo.png
+draft: false 
+---
+
+![](pct-logo.png){fig-align="center" width="247"}
+
+**Pura Ciencia Tica** (PCT) es un proyecto de comunicación del conocimiento que busca fortalecer el vínculo entre las personas investigadoras costarricenses y el público general para promover la comprensión de los avances científicos. Por medio de artículos, entrevistas, podcasts, TikToks y otros productos multimedia, el proyecto busca visibilizar no solo los descubrimientos, sino también a las personas detrás de las investigaciones, acercando sus historias y contribuciones a toda la sociedad.
+
+Emily Espinoza Mora y Pablo Vivas Corrales identificaron desafíos en la relación entre la comunidad científica costarricense y el público general, entre ellos la limitada cobertura de los medios de comunicación sobre los avances en ciertas áreas del conocimiento, así como la falta de espacios accesibles donde el público pueda interactuar con la ciencia de manera comprensible y significativa. Como respuesta a esta brecha, el 23 de septiembre de 2023 fundaron **PCT**, bajo el lema *Uniendo Ciencia y Comunidad*, con la visión de hacer el conocimiento científico más accesible, comprensible y cercano para toda la población e inspirar a nuevas generaciones a involucrarse en el quehacer científico.
+
+**PCT** aún se encuentra en desarrollo, sin embargo, sus fundadores mantienen una visión clara y un compromiso firme con su crecimiento. Emily y Pablo entienden que un proyecto de esta magnitud implica tiempo y esfuerzo constante pero continúan trabajando con entusiasmo y dedicación para que **PCT** se convierta en un puente sólido entre la ciencia costarricense y la comunidad.

@@ -1,0 +1,98 @@
+project:
+  type: website
+  output-dir: docs  #folder for github purposes
+  # render: 
+  #   - "*.qmd"
+  #   - "!entrevistas/"
+  #   - "!noticias/"
+
+website:
+
+# Title
+  title: " "
+  
+  site-url: "https://www.puracienciatica.com/"
+  
+  google-analytics: "G-RD54Q01426"
+
+# Search
+  search: true
+
+# Reader Mode
+  reader-mode: false
+
+# Navigation
+  navbar:
+    left:
+      - icon: facebook
+        href: https://www.facebook.com/puracienciatica
+      - icon: youtube
+        href: https://www.youtube.com/@puracienciatica
+      - icon: twitter-x
+        href: https://x.com/puracienciatica
+      - icon: instagram
+        href: https://www.instagram.com/puracienciatica/
+      - icon: tiktok
+        href: https://www.tiktok.com/@puracienciatica
+    right: 
+      - href: index.qmd
+        text: Inicio |
+      - href: noticias.qmd
+        text: Noticias |
+      - href: entrevistas.qmd
+        text: Entrevistas |
+      - href: sobre-nosotros.qmd
+        text: Sobre Nosotros
+      #   text: Sobre Nosotros |
+      # - href: ayuda.qmd
+      #   text: Apoya PCT
+
+# logo  
+#    logo: "imgs/logo-seeds.jpg"
+#    logo-alt: "Alternative text
+
+# color
+    background: "#000000"
+    foreground: "#FFFFFF"
+
+    # tools:
+    #   - icon: twitter
+    #     href: https://twitter.com
+    #   - icon: tiktok
+    #     href: https://tiktok.com
+    #   - icon: facebook
+    #     href: https://facebook.com
+    #   - icon: youtube
+    #     href: https://youtube.com
+    #   - icon: instagram
+    #     href: https://instagram.com
+      # - icon: github
+      #   menu:
+      #     - text: Source Code
+      #       url:  https://code.com
+      #     - text: Report a Bug
+      #       url:  https://bugs.com
+
+# footer
+  # page-footer: 
+  #   border: true
+  #   left: "Copyright Pura Ciencia Tica, 2024" 
+    # right: 
+    #   - icon: github
+    #     href: https://github.com/
+    #   - icon: twitter 
+    #     href: https://twitter.com/ 
+
+lang: es
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - "temas/general.scss"
+    backgroundcolor: "#000000"
+    css: styles.css
+    toc: true
+
+
+

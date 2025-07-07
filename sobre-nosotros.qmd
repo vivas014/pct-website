@@ -1,0 +1,24 @@
+---
+title: "Pura Ciencia Tica"
+about:
+  template: trestles
+  image: images/logo-10.png
+  links:
+    - icon: envelope
+      text: Contáctanos
+      href: mailto:puracienciaticacr@gmail.com
+---
+
+<style>
+/* Custom CSS for left-shifted justified text */
+.about-content {
+  text-align: justify;
+  max-width: 99%;
+  margin-left: 0;
+  padding-left: 0;
+}
+</style>
+
+<div class="about-content">
+
+Pura Ciencia Tica (PCT) es un proyecto de comunicación del conocimiento que busca fortalecer el vínculo entre las personas investigadoras costarricenses y el público general para promover la comprensión de los avances científicos. Por medio de artículos, entrevistas, podcasts, TikToks y otros productos multimedia, el proyecto busca visibilizar no solo los descubrimientos, sino también a las personas detrás de las investigaciones, acercando sus historias y contribuciones a toda la sociedad.
