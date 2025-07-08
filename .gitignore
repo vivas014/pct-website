@@ -1,6 +1,33 @@
-.Rproj.user
+# Archivos temporales de RStudio
 .Rhistory
 .RData
 .Ruserdata
+.Rproj.user/
+
+# Archivos temporales de Quarto
+.quarto/
+
+# Cache de listings y otros
+listing-cache.json
+*.log
+*.aux
+*.toc
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de proyecto que no deben trackearse
+*.Rproj
+
+# Sitio web generado
+# (NO ignoramos docs/ porque se publica desde ahí)
+#docs/
+
+# Archivos temporales al renderizar
+*.html
+
+# Ignorar archivos individuales renderizados fuera de docs/
+*.nb.html
 
 /.quarto/
